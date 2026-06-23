@@ -1,5 +1,7 @@
 # [HireReady Notebook](https://hireready.omarcodes.io)
 
+![Demo Screenshot](screenshots/1.png)
+
 **HireReady Notebook** is a minimalist NotebookLM-style web app for interview and resume preparation. It lets candidates upload resumes, job descriptions, company notes, recruiter notes, and interview-prep documents, then ask grounded questions using Gemini with visible source references.
 
 The project was built for the **Build with AI UAE** workshop as an industry-specific document assistant for the recruitment, career, and interview-prep space.
